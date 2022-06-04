@@ -134,11 +134,11 @@ ex) -a 문자에 매크로 내용을 기록했다면 qa ->  매크로작성 -> q
 3) @@ : 마지막에 수행한 매크로 실행
 
 ## 참고 사이트 ##
-[top 참고 사이트 1 ](https://blog.naver.com/dktmrorl/222635202537) 
+[top 참고 사이트 1](https://sabarada.tistory.com/146)
 
 [top 참고 사이트 2 ](https://bebeya.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-top-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC-%EB%B0%8F-%EC%84%A4%EB%AA%85-%EB%8B%A8%EC%B6%95%ED%82%A4-%ED%99%95%EC%9D%B8)
 
-[top 참고 사이트 3](https://sabarada.tistory.com/146)
+[top 참고 사이트 3 ](https://blog.naver.com/dktmrorl/222635202537) 
 
 [ps 참고 사이트 1](https://jhnyang.tistory.com/268)
 
@@ -146,16 +146,16 @@ ex) -a 문자에 매크로 내용을 기록했다면 qa ->  매크로작성 -> q
 
 [ps 참고 사이트 3](https://blog.naver.com/tmk0429/222318530824)
 
-[jobs 참고 사이트 1](https://shaeod.tistory.com/968)
+[jobs 참고 사이트 1](https://terms.naver.com/entry.naver?docId=4125682&cid=59321&categoryId=59321)
 
-[jobs 참고 사이트 2](https://terms.naver.com/entry.naver?docId=4125682&cid=59321&categoryId=59321)
+[jobs 참고 사이트 2](https://shaeod.tistory.com/968)
 
 [kill 참고 사이트 1](https://codingdog.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-kill-%EB%AA%85%EB%A0%B9%EC%96%B4-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%97%90-%EC%8B%9C%EA%B7%B8%EB%84%90%EC%9D%84-%EB%B3%B4%EB%82%B8%EB%8B%A4)
 
 [kill 참고 사이트 2](https://121202.tistory.com/45)
 
-[vim 에디터 매크로 사용 방법 참고 사이트 1](https://clem.tistory.com/29)
+[vim 에디터 매크로 사용 방법 참고 사이트 1](https://coldmater.tistory.com/226)
 
-[vim 에디터 매크로 사용 방법 참고 사이트 2](https://coldmater.tistory.com/226)
+[vim 에디터 매크로 사용 방법 참고 사이트 2](https://clem.tistory.com/29)
 
 
