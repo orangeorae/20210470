@@ -64,5 +64,19 @@ __kill 명령어 옵션__
 
 이외에도 kill -s SIGKILL[pid] 등 여러가지 방법이 있습니다.
 
+## killall 명령어
+killall 명령어는 프로세스 번호가 아니라 프로세스 이름으로 프로세스에게 시그널을 보냅니다.
 
+**killall 명령어 사용 방법**
 
+killall [옵션] [프로세스명] : SIGTERM을 해당 프로세스에게 전송
+
+__killall 명령어 옵션__
+
++ killall -g : 프로세스가 속한 프로세스 그룹을 종료시킵니다.
++ killall -i : 종료전에 확인을 요구합니다.
++ killall -l : 시그널 목록을 출력합니다.
++ killall -s [시그널 번호 or 이름] :  SIGTERM 대신 지정한 시그널로 프로세스에게 전송합니다.
++ killall -v : 시그널이 성공적으로 보내졌다면 보고합니다.
++ killall -V : 버전정보를 출력합니다.
++ killall -w : 프로세스가 종료될 때까지 대기합니다.
