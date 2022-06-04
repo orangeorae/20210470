@@ -139,13 +139,9 @@ ex) -a 문자에 매크로 내용을 기록했다면 qa ->  매크로작성 -> q
 
 [top 참고 사이트 2 ](https://bebeya.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-top-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC-%EB%B0%8F-%EC%84%A4%EB%AA%85-%EB%8B%A8%EC%B6%95%ED%82%A4-%ED%99%95%EC%9D%B8)
 
-[top 참고 사이트 3 ](https://blog.naver.com/dktmrorl/222635202537) 
-
 [ps 참고 사이트 1](https://jhnyang.tistory.com/268)
 
 [ps 참고 사이트 2](https://blog.naver.com/dktmrorl/222416977486)
-
-[ps 참고 사이트 3](https://blog.naver.com/tmk0429/222318530824)
 
 [jobs 참고 사이트 1](https://terms.naver.com/entry.naver?docId=4125682&cid=59321&categoryId=59321)
 
